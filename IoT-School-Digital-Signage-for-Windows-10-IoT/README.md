@@ -1,8 +1,8 @@
-# IoT-School-Prototyping-a-device-with-Windows-10-IoT-Core
+# IoT-School-Digital-Signage-for-Windows-10-IoT
 IoT School: Digital Signage for Windows 10 IoT
 
 ## Description:
-This hands-on lab is part of the **IoT School** learning path about Azure IoT solutions provided by **Microsoft**. Its goal is to ` "Learn how to get started with Windows 10 IoT core, where you’ll start with picking the right board to prototype with and eventually learn how to deploy an application to your device." ` It is available at https://iotschool.microsoft.com/learning-paths.        
+This hands-on lab is part of the **IoT School** learning path about Azure IoT solutions provided by **Microsoft**. Its goal is to `"Learn how to effectively leverage the different editions of Windows 10 IoT for your digital signage solution." ` It is available at https://iotschool.microsoft.com/learning-paths.        
 
 <br />
 This task was performed by following each module instruction. Key screenshots are presented to demonstrated the obtained results along with some comments whenever applicable.    
@@ -11,12 +11,14 @@ This task was performed by following each module instruction. Key screenshots ar
 
 
 
-## 3 Modules:Select a board for prototyping
+## 2 Modules:
 
-Total duration: 45min  
+Total duration: 29min  
 
 <br />
 
 
 
-## Module 1: 
+## Module 1: Understanding Digital Signage Solutions for the Windows 10 IoT Platform
+
+
