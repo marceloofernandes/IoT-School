@@ -21,4 +21,17 @@ Total duration: 29min
 
 ## Module 1: Understanding Digital Signage Solutions for the Windows 10 IoT Platform
 
+Duration: 9 minutes
 
+<br />
+
+## Module 2: 
+
+Duration: 20 minutes
+
+Instructions: 
+
+
+![alt text]()
+
+***(work in progress)***
