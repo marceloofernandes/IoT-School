@@ -25,11 +25,12 @@ Duration: 9 minutes
 
 <br />
 
-## Module 2: 
+## Module 2: Set up a kiosk or digital signage on Windows 10 Pro, Enterprise, or Education
 
 Duration: 20 minutes
 
-Instructions: 
+Instructions: https://docs.microsoft.com/en-us/windows/configuration/kiosk-single-app      
+
 
 
 ![alt text]()
