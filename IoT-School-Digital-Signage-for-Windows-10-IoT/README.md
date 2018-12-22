@@ -1,5 +1,4 @@
-# IoT-School-Digital-Signage-for-Windows-10-IoT
-IoT School: Digital Signage for Windows 10 IoT
+# IoT School: Digital Signage for Windows 10 IoT
 
 ## Description:
 This hands-on lab is part of the **IoT School** learning path about Azure IoT solutions provided by **Microsoft**. Its goal is to `"Learn how to effectively leverage the different editions of Windows 10 IoT for your digital signage solution." ` It is available at https://iotschool.microsoft.com/learning-paths.        
