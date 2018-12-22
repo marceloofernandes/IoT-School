@@ -30,9 +30,3 @@ Duration: 9 minutes
 Duration: 20 minutes
 
 Instructions: https://docs.microsoft.com/en-us/windows/configuration/kiosk-single-app      
-
-
-
-![alt text]()
-
-***(work in progress)***
