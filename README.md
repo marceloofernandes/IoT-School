@@ -1,2 +1,4 @@
 # IoT-School
 IoT School: Learn about Azure IoT solutions
+
+`"Learn about Azure IoT solutions, platform services and industry-leading edge technologies. See how you can connect devices to create powerful IoT applications on the flexible Azure IoT platform. See how Azure IoT simplifies IoT development—use your preferred language, tools and existing developer SDKs to start building IoT right away. Get started quickly with solution accelerators such as Remote Monitoring, Predictive Maintenance and Connected Factory for common IoT scenarios. Learn how to use Azure IoT Hub to easily create, customize, and manage all aspects of your IoT application, and IoT Edge to deploy cloud apps on the edge—creating more intelligent solutions, whether in the cloud or on-premises. Create visualizations of IoT time-series data and create insights from your IoT application with other Azure platform services."` - available at https://iotschool.microsoft.com/learning-paths
