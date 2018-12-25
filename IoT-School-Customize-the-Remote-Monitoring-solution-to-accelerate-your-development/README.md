@@ -34,11 +34,68 @@ Duration: 8 minutes
 
 Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-remote-monitoring-customize
 
-***(work in progress)***
+
+##### Prepare a local development environment for the UI
+
+The following steps outline the process to set up a local environment for UI development:       
+
+
+
+1. Deploy a basic instance of the solution accelerator using the pcs CLI. Make a note of the name of your deployment and the credentials you provided for the virtual machine. For more information, see Deploy using the CLI.
+
+(insert screenshots)
+
+2. To enable SSH access to the virtual machine that hosts the microservices in your solution, use the Azure portal or the Azure Cloud Shell. For example:
+
+
+(insert screenshots)
+
+3. Use the Azure portal or the Azure Cloud Shell to find the name and public IP address of your virtual machine. For example:     
+
+
+
+4. Use SSH to connect to your virtual machine. Use the IP address from the previous step, and the credentials you provided when you ran pcs to deploy the solution. The ssh command is available in the Azure Cloud Shell.       
+
+
+5. To allow the local UX to connect, run the following commands at the bash shell in the virtual machine:     
+
+
+6. After you see the command completes and the web site starts, you can disconnect from the virtual machine.
+
+The web site did not start.
+
+
+7. In your local copy of the azure-iot-pcs-remote-monitoring-webui repository, edit the .env file to add the URL of your deployed solution
+
+...
+
+10. The previous command runs the UI locally at http://localhost:3000/dashboard. You can edit the code while the site is running and see it update dynamically.    
+
+
+
+#### Customize the layout
+
+
 
 <br />
 
+#### Duplicate and customize an existing control
 
+
+
+Failed to compile
+./src/components/pages/dashboard/dashboard.js
+Attempted import error: 'CustAlertsPanelContainer' is not exported from './panels' (imported as 'CustAlertsPanel').
+
+#### Customize the telemetry chart
+
+
+
+#### Add a new KPI
+
+
+
+***(work in progress)***
 
 ## Module 3: 
 
