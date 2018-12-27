@@ -87,29 +87,49 @@ The web site did not start.
 10. The previous command runs the UI locally at http://localhost:3000/dashboard. You can edit the code while the site is running and see it update dynamically.    
 
 ![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.40.50.png)
-![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.41.06.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2415.29.48.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2415.29.58.png)
 
 #### Customize the layout
 
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2415.43.24.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2415.46.29.png)
 
 
 <br />
 
 #### Duplicate and customize an existing control
 
-
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2415.53.45.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2415.55.28.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.02.00.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.07.13.png)
 
 Failed to compile
 ./src/components/pages/dashboard/dashboard.js
 Attempted import error: 'CustAlertsPanelContainer' is not exported from './panels' (imported as 'CustAlertsPanel').
 
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.14.45.png)
+
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.14.55.png)
+
 #### Customize the telemetry chart
-![alt text]()
+
+
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.19.01.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.20.58.png)
 
 
 #### Add a new KPI
 
-![alt text]()
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.24.27.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.26.06.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.28.49.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.29.55.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.30.48.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.34.24.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2416.37.30.png)
+
 
 ***(work in progress)***
 
