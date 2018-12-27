@@ -26,6 +26,10 @@ Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accele
 
 <br />
 
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2516.42.44.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2516.43.56.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2516.44.07.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2516.44.32.png)
 
 
 ## Module 2: Customize the UX
@@ -43,22 +47,24 @@ The following steps outline the process to set up a local environment for UI dev
 
 1. Deploy a basic instance of the solution accelerator using the pcs CLI. Make a note of the name of your deployment and the credentials you provided for the virtual machine. For more information, see Deploy using the CLI.
 
-(insert screenshots)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.13.15.png)
 
 2. To enable SSH access to the virtual machine that hosts the microservices in your solution, use the Azure portal or the Azure Cloud Shell. For example:
 
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.17.06.png)
 
-(insert screenshots)
 
 3. Use the Azure portal or the Azure Cloud Shell to find the name and public IP address of your virtual machine. For example:     
 
-
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.19.48.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.21.01.png)
 
 4. Use SSH to connect to your virtual machine. Use the IP address from the previous step, and the credentials you provided when you ran pcs to deploy the solution. The ssh command is available in the Azure Cloud Shell.       
-
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.27.53.png)
 
 5. To allow the local UX to connect, run the following commands at the bash shell in the virtual machine:     
-
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.29.02.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.29.09.png)
 
 6. After you see the command completes and the web site starts, you can disconnect from the virtual machine.
 
@@ -67,11 +73,21 @@ The web site did not start.
 
 7. In your local copy of the azure-iot-pcs-remote-monitoring-webui repository, edit the .env file to add the URL of your deployed solution
 
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.34.32.png)
+
 ...
+
+9. To install the required libraries and run the UI locally, run the following commands:    
+
+
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.39.08.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.39.59.png)
+
 
 10. The previous command runs the UI locally at http://localhost:3000/dashboard. You can edit the code while the site is running and see it update dynamically.    
 
-
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.40.50.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Customize-the-Remote-Monitoring-solution-to-accelerate-your-development/Remote%20Monitoring/Picture2517.41.06.png)
 
 #### Customize the layout
 
@@ -88,12 +104,12 @@ Failed to compile
 Attempted import error: 'CustAlertsPanelContainer' is not exported from './panels' (imported as 'CustAlertsPanel').
 
 #### Customize the telemetry chart
-
+![alt text]()
 
 
 #### Add a new KPI
 
-
+![alt text]()
 
 ***(work in progress)***
 
