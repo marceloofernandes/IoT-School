@@ -133,13 +133,16 @@ Attempted import error: 'CustAlertsPanelContainer' is not exported from './panel
 
 ***(work in progress)***
 
-## Module 3: 
+## Module 3: Customize and redeploy a microservice
 
-Duration:  minutes
+Duration:  4 minutes
 
-Instructions: 
+Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-microservices-example
 
 <br />
+
+#### Call the API and view response status
+
 
 
 
