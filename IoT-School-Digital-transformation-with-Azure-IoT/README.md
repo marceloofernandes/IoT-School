@@ -46,9 +46,11 @@ Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/quickstart
 
 Duration: 33 minutes
 
-Instructions: 
+Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/quickstart-device-simulation-deploy
 
 <br />
+#### Quickstart: Deploy and run an IoT device simulation in Azure
+**Deploy Device Simulation**
 
 ![alt text]()
 ![alt text]()
