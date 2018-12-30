@@ -26,8 +26,21 @@ Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/quickstart
 
 <br />
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture16.44.24.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.03.17.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.03.32.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.04.29.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.14.29.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.15.34.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.16.10.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.19.44.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.21.03.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.23.44.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.26.12.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.26.44.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.32.24.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.36.41.png)
+![alt text](https://github.com/marceloofernandes/IoT-School/blob/master/IoT-School-Digital-transformation-with-Azure-IoT/Pictures/Picture17.36.53.png)
 
 ## Module 2: Customize the Remote Monitoring solution accelerator
 
