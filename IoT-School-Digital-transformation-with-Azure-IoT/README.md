@@ -57,6 +57,10 @@ Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/quickstart
 ![alt text]()
 ![alt text]()
 
+**Customize the Remote Monitoring solution accelerator**
+https://docs.microsoft.com/en-us/azure/azure-maps/tutorial-search-location
+
+
 ## Module 3: 
 
 Duration:  minutes
