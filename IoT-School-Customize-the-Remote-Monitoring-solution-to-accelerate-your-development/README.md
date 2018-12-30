@@ -146,18 +146,18 @@ Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accele
 
 
 
-## Module 4: 
+## Module 4: Integrate with visualization tools
 
-Duration:  minutes
+Duration: 6 minutes
 
-Instructions: 
+Instructions: Provided link is broken. Used this one instead: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-remote-monitoring-integrate-time-series-insights
 
 <br />
 
 
 
-## Module 5: 
+## Module 5: Connect your data to Azure Data Lake storage
 
-Duration:  minutes
+Duration: 4 minutes
 
-Instructions: 
+Instructions: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-integrate-data-lake
